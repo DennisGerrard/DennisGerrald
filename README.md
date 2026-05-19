@@ -22,7 +22,7 @@ I'm a passionate Software Developer and Cybersecurity Enthusiast focused on buil
 - 🤝 Open to collaborating on software, AI, and cybersecurity-related projects.
 - 🌐 Portfolio: [My Portfolio](https://yourwebsite.com)
 - 📫 Reach Me:
-  - [LinkedIn](https://linkedin.com) |[Email](mailto:elondenis174@gmail.com) | [Twitter](https://twitter.com) | [Instagram](https://intagram.com)
+  - [LinkedIn](https://linkedin.com) |[Email](elondenis174@gmail.com) | [Twitter](https://twitter.com) | [Instagram](https://intagram.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: When I'm not coding, you'll probably find me playing chess, watching tech movies and exploring nature.
 ---
