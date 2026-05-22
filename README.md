@@ -80,7 +80,11 @@ A Python tool that checks password strength using entropy and pattern analysis, 
 
 ---
 AegisLab AI
-
+Stack:Frontend: HTML5, CSS3, Vanilla JavaScript, Chart.js
+Backend: Python, FastAPI, SQLAlchemy (Async)
+Database: TiDB (MySQL-compatible distributed SQL)
+AI Engine: Google Gemini (Primary) & OpenAI (Fallback)
+Authentication: Firebase Auth & Firebase Admin SDK
 A clinical diagnostic copilot that analyzes patient medical biomarkers in real-time to uncover hidden health risks.
 
 AegisLab AI is an advanced clinical laboratory intelligence system designed to assist lab technicians and physicians. By performing multi-parameter clinical reasoning on laboratory test results, it identifies hidden relationships between test markers, detects early disease signatures, and provides explainable, actionable diagnostic insights.
