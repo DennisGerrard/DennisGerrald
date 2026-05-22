@@ -74,8 +74,11 @@ I'm a passionate Software Developer and Cybersecurity Enthusiast focused on buil
 
 ---
 ## 🚀 Projects
+Password-strength-checkerVB
+A Python tool that checks password strength using entropy and pattern analysis, then suggests improvements or generates stronger passwords. Built with string manipulation and regular expressions to reinforce cybersecurity basics.
+<img width="999" height="581" alt="image" src="https://github.com/user-attachments/assets/ccbfc76a-e48d-44f4-887e-68941798ab00" />
 
-
+---
 
                                                                                     
                                                                                     
