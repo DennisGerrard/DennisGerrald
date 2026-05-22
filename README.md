@@ -74,6 +74,8 @@ I'm a passionate Software Developer and Cybersecurity Enthusiast focused on buil
 
 ---
 ## 🚀 Projects
+
+
 Password-strength-checkerVB
 
 🛠 Tech Stack
