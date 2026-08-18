@@ -1,4 +1,4 @@
-## Hi there 👋I'm Dennis Gerrard
+## Hi there 👋I'm Dennis Gerrard.
 
 ```
   _____  ______ _   _ _   _ _____  _____    _____ ______ _____  _____            _      _____  
